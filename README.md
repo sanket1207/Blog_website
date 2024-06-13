@@ -1,5 +1,5 @@
 # Blog_website
-Blog_website using Node.js ,Express.js , JSX template 
+Blog_website using Node.js , Express.js, JSX template.
 
 Home Page 
 ![image](https://user-images.githubusercontent.com/59315014/222126734-3c190222-06e9-4bd1-887f-74a323288b7f.png)
